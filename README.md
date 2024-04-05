@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyu3&layout=compact) \\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyu3&layout=compact) \n
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nattyu3&show_icons=true)
 
 <!--
