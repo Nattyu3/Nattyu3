@@ -1,15 +1,9 @@
-### Hi there 👋
+### Hi there ✨
 
-<h1 align="center">Hi 👋, I'm Nattyu3!</h1>
-
-- 🌱 I’m currently learning **Fundamentals of Algorithms**
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nattyu3&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyu3&layout=compact)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nattyu3" /><br/>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Nattyu3&hide_border=false" /><br/>
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=Nattyu3&layout=compact&show_icons=true" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=Nattyu3&show_icons=ture&count_private=true" />
 
 <!--
 **Nattyu3/Nattyu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
