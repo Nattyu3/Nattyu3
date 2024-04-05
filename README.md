@@ -1,3 +1,5 @@
+### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Nattyu3!</h1>
 
 - 🌱 I’m currently learning **Fundamentals of Algorithms**
