@@ -1,4 +1,4 @@
-### Hi there 🤜🤛
+### Hi there 👋✨
 
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nattyu3" /><br/>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Nattyu3&hide_border=false" /><br/>
